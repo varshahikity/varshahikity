@@ -2,7 +2,7 @@
 
 ### 💻 Computer Engineering Student 
 
-I'm a Computer Engineering student interested in **software development, web development, AI, and problem solving**.
+I'm a Computer Engineering student interested in **software development,AI, and problem solving**.
 
 * 💻 Building projects to strengthen my programming and development skills
 * 🤖 Interested in **AI data visualization**
@@ -14,9 +14,7 @@ I'm a Computer Engineering student interested in **software development, web dev
 # 📚 Currently Learning
 
 * 🐍 Python
-* 🧠 Data Structures & Algorithms
 * 🌐 Excel
-* 💻 Power BI
 * 🔧 Git & GitHub
 * 🤖 Fundamentals of Data
 
